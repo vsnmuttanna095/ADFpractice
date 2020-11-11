@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "repopractice"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }

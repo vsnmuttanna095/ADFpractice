@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "repopractice"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
